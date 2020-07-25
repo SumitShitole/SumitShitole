@@ -18,7 +18,7 @@
 
 Hi, I'm Sumit Shitole, a Software Developer 🚀 from Pune, India. Currently, I'm a working as Software Analyst at [@Yardi Software India Private Limited](https://www.yardi.com/).
 
-Beside's Computer Science, I love photography and cricket. Currently I am leading the Yardi corporate Tennis ball cricket team.
+Beside's Computer Science, I love photography:camera: and cricket:baseball:. Currently I am leading the Yardi corporate Tennis ball cricket team.
 
 
 :computer:**Languages and Tools:**:computer:
@@ -27,6 +27,7 @@ Beside's Computer Science, I love photography and cricket. Currently I am leadin
 <code><img height="20" src="https://lh3.googleusercontent.com/proxy/hYF7j5sh4WtrWLdAjBomRLCsoah5mJh7KL5ZNR7d1AWs4MJj1iUoxt2qxDGBrqiqLFZ5tC-mdGooh0nWLF68DyIVx0kiA3Ks7S8nlEbvcE3cS889z7xgvQDR7FAxDW1XUO0ScPCFHh9pmHYc93VNq3qHyVop6AKJ"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://miro.medium.com/max/512/1*2vdWhNKgrxCoX3ZBnIQOQg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
