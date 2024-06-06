@@ -16,9 +16,9 @@
 <br />
 <br />
 
-Hi, I'm Sumit Shitole, a Software Developer 🚀 from Pune, India. Currently, I'm a working as Associate Tech Lead at [@Yardi Software India Private Limited](https://www.yardi.com/).
+Hi, I'm Sumit Shitole, a Software Developer 🚀 from Pune, India. Currently, I'm working as an Associate Tech Lead at [@Yardi Software India Private Limited](https://www.yardi.com/).
 
-Beside's Computer Science, I love photography:camera: and cricket:baseball:. Currently I am leading the Yardi corporate Tennis ball cricket team.
+Besides Computer Science, I love photography:camera: and cricket:baseball:. Currently, I am leading the Yardi corporate Tennis ball cricket team.
 
 
 :computer:**Languages and Tools:**:computer:
